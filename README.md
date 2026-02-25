@@ -1,22 +1,32 @@
-<!-- HEADER ANIMADO -->
+<!-- ENCABEZADO ANIMADO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ing.+Juan+Daniel+Alvarado;Gerente+de+Desarrollo;Backend+Engineer+.NET;API+Integration+Specialist;E-commerce+%26+Logistics+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ing.+Juan+Daniel+Alvarado;Gerente+de+Desarrollo;Especialista+en+Integración+de+APIs;Sistemas+Empresariales+y+E-commerce" />
 </h1>
 
+---
+
+<h3 align="center">
+Gerente de Desarrollo | Consorcio Internacional IMOVS
+</h3>
+
 <p align="center">
-  📍 Ciudad de México, México  
+🎓 Universidad Politécnica de Tecámac  
+<br>
+🧠 Experiencia Profesional: 2022 – Presente  
+<br>
+📍 Ciudad de México, México
 </p>
 
 ---
 
 <!-- CONTADOR DE VISITAS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniel050403&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Daniel050403&label=Visitas+al+Perfil&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-# 🧠 Stack Tecnológico
+# 🧠 Tecnologías y Arquitectura
 
 <p align="center">
 
@@ -29,16 +39,16 @@
 
 </p>
 
-- .NET 8  
+- Desarrollo backend con .NET 8  
 - Arquitectura en capas  
-- REST APIs  
-- Automatización empresarial  
+- Diseño e integración de APIs REST  
+- Automatización de procesos empresariales  
 - Automatizaciones web con Selenium  
 - Integración de servicios externos  
 
 ---
 
-# 🚚 APIs de Paquetería
+# 🚚 Integración de Paqueterías
 
 <p align="center">
 
@@ -48,9 +58,14 @@
 
 </p>
 
+- Generación automática de guías  
+- Cálculo dinámico de tarifas  
+- Validación y rastreo de envíos  
+- Integración logística empresarial  
+
 ---
 
-# 💳 Métodos de Pago
+# 💳 Integración de Métodos de Pago
 
 <p align="center">
 
@@ -60,9 +75,14 @@
 
 </p>
 
+- Confirmación automática de pagos  
+- Webhooks y validación de transacciones  
+- Integración de transferencias bancarias  
+- Automatización de conciliaciones  
+
 ---
 
-# 🛒 Comercio Electrónico & Marketplaces
+# 🛒 Comercio Electrónico y Marketplaces
 
 <p align="center">
 
@@ -74,31 +94,15 @@
 
 </p>
 
----
-
-# 💼 Experiencia Profesional
-
-<h2 align="center">🚀 CONSORCIO INTERNACIONAL IMOVS 🚀</h2>
-
-<p align="center">
-Gerente de Desarrollo | Arquitectura Backend | Integración Empresarial
-</p>
-
-- Liderazgo técnico de desarrollo backend  
-- Arquitectura de soluciones empresariales  
-- Integración de marketplaces y pasarelas de pago  
-- Automatizaciones con Selenium  
-- Integración de paqueterías y logística  
+- Integración de APIs de marketplaces  
+- Sincronización de inventarios en tiempo real  
+- Gestión automatizada de órdenes  
+- Facturación electrónica (CFDI 4.0)  
+- Automatización omnicanal  
 
 ---
 
-# 🎓 Formación
-
-**Universidad Politécnica de Tecámac**
-
----
-
-# 📊 GitHub Analytics
+# 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Daniel050403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -107,5 +111,16 @@ Gerente de Desarrollo | Arquitectura Backend | Integración Empresarial
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel050403&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+# ⚙️ Enfoque Profesional
+
+✔ Liderazgo técnico y gestión de desarrollo  
+✔ Integración de APIs empresariales  
+✔ Sistemas de logística y comercio electrónico  
+✔ Automatización avanzada con Selenium  
+✔ Desarrollo backend robusto y escalable  
+✔ Arquitectura orientada a integración  
 
 ---
