@@ -11,7 +11,7 @@
 
 <!-- CONTADOR DE VISITAS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniel050403&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="contador" />
+  <img src="https://komarev.com/ghpvc/?username=Daniel050403&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -25,14 +25,16 @@
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 
 </p>
 
 - .NET 8  
 - Arquitectura en capas  
 - REST APIs  
-- Integración de servicios externos  
 - Automatización de procesos empresariales  
+- Automatizaciones web con Selenium  
+- Integración de servicios externos  
 
 ---
 
@@ -88,6 +90,28 @@
 
 ---
 
+# 💼 Experiencia Profesional
+
+<h2 align="center">🚀 CONSORCIO INTERNACIONAL IMOVS 🚀</h2>
+
+<p align="center">
+Backend Developer | Integración de APIs | Automatización Empresarial
+</p>
+
+- Desarrollo de sistemas empresariales backend  
+- Integración con plataformas de e-commerce y marketplaces  
+- Implementación de automatizaciones con Selenium  
+- Integración de paqueterías y métodos de pago  
+- Optimización de procesos administrativos  
+
+---
+
+# 🎓 Formación
+
+**Universidad Politécnica de Tecámac**
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -104,24 +128,11 @@
 
 ---
 
-# 🎓 Formación
-
-**Universidad Politécnica de Tecámac**
-
----
-
-# 💼 Experiencia Profesional
-
-**Consorcio Internacional IMOVS**  
-Backend Developer  
-
----
-
 # ⚙️ Enfoque Profesional
 
 ✔ Integración de APIs empresariales  
 ✔ Sistemas de logística y comercio electrónico  
-✔ Automatización de procesos administrativos  
+✔ Automatización con Selenium  
 ✔ Desarrollo backend robusto y escalable  
 ✔ Arquitectura orientada a integración  
 
