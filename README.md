@@ -104,9 +104,9 @@ Gerente de Desarrollo | Consorcio Internacional IMOVS
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel050403&show_icons=true&theme=radical&hide_border=true" alt="Eder's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel050403&show_icons=true&theme=radical&hide_border=true" alt="Daniel GitHub stats" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel050403&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+ 
 </p>
 
 ---
