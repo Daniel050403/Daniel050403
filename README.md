@@ -100,12 +100,13 @@ Gerente de Desarrollo | Consorcio Internacional IMOVS
 
 # 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniel050403&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ederjoel26&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel050403&theme=tokyonight" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daniel050403&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ederjoel26&show_icons=true&theme=radical&hide_border=true" alt="Eder's GitHub stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ederjoel26&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
