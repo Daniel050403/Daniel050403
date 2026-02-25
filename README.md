@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ing.+Juan+Daniel+Alvarado;Gerente+de+Desarrollo;Especialista+en+Integraci%C3%B3n+de+APIs;Sistemas+Empresariales+y+E-commerce" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ing.+Juan+Daniel+Garcia+Alvarado;Gerente+de+Desarrollo;Especialista+en+Integraci%C3%B3n+de+APIs;Sistemas+Empresariales+y+E-commerce" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
