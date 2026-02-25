@@ -100,12 +100,12 @@ Gerente de Desarrollo | Consorcio Internacional IMOVS
 
 # 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel050403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel050403&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniel050403&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel050403&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel050403&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daniel050403&theme=tokyonight" />
 </p>
 
 ---
