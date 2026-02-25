@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ing.+Juan+Daniel+Alvarado;Backend+Engineer+.NET;API+Integration+Specialist;E-commerce+%26+Logistics+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ing.+Juan+Daniel+Alvarado;Gerente+de+Desarrollo;Backend+Engineer+.NET;API+Integration+Specialist;E-commerce+%26+Logistics+Systems" />
 </h1>
 
 <p align="center">
@@ -32,7 +32,7 @@
 - .NET 8  
 - Arquitectura en capas  
 - REST APIs  
-- Automatización de procesos empresariales  
+- Automatización empresarial  
 - Automatizaciones web con Selenium  
 - Integración de servicios externos  
 
@@ -48,13 +48,9 @@
 
 </p>
 
-- Generación de guías  
-- Cálculo de tarifas  
-- Tracking y validación de envíos  
-
 ---
 
-# 💳 Métodos de Pago Integrados
+# 💳 Métodos de Pago
 
 <p align="center">
 
@@ -63,10 +59,6 @@
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 
 </p>
-
-- Webhooks de pagos  
-- Confirmación automática de transacciones  
-- Integración de transferencias bancarias  
 
 ---
 
@@ -82,12 +74,6 @@
 
 </p>
 
-- Integración de APIs de marketplaces  
-- Sincronización de inventarios en tiempo real  
-- Gestión automatizada de órdenes  
-- Facturación electrónica (CFDI 4.0)  
-- Automatización omnicanal  
-
 ---
 
 # 💼 Experiencia Profesional
@@ -95,14 +81,14 @@
 <h2 align="center">🚀 CONSORCIO INTERNACIONAL IMOVS 🚀</h2>
 
 <p align="center">
-Backend Developer | Integración de APIs | Automatización Empresarial
+Gerente de Desarrollo | Arquitectura Backend | Integración Empresarial
 </p>
 
-- Desarrollo de sistemas empresariales backend  
-- Integración con plataformas de e-commerce y marketplaces  
-- Implementación de automatizaciones con Selenium  
-- Integración de paqueterías y métodos de pago  
-- Optimización de procesos administrativos  
+- Liderazgo técnico de desarrollo backend  
+- Arquitectura de soluciones empresariales  
+- Integración de marketplaces y pasarelas de pago  
+- Automatizaciones con Selenium  
+- Integración de paqueterías y logística  
 
 ---
 
@@ -115,25 +101,11 @@ Backend Developer | Integración de APIs | Automatización Empresarial
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel050403&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel050403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel050403&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daniel050403&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# ⚙️ Enfoque Profesional
-
-✔ Integración de APIs empresariales  
-✔ Sistemas de logística y comercio electrónico  
-✔ Automatización con Selenium  
-✔ Desarrollo backend robusto y escalable  
-✔ Arquitectura orientada a integración  
 
 ---
